@@ -9,5 +9,5 @@ import { ProductCardComponent } from '../product-card/product-card.component';
   styleUrl: './home.component.scss'
 })
 export class HomeComponent {
-  // types=[1,2,3,4,5];
+  products=[1,2,3,4,5]
 }
